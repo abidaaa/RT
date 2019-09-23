@@ -6,7 +6,7 @@
 #    By: aabouibr <aabouibr@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/08/01 13:09:20 by aabouibr          #+#    #+#              #
-#    Updated: 2019/09/17 12:22:33 by aabouibr         ###   ########.fr        #
+#    Updated: 2019/08/01 13:25:12 by aabouibr         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -21,6 +21,6 @@ $(NOM): $(OBJ)
 		ranlib $(NOM)
 
 clean:
-		rm -f $(NOM) $(OBJ)
+		rm -f $(NOM) $(OBJ) *~
 
 re: clean all
