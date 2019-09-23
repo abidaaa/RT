@@ -1,0 +1,1 @@
+gcc -I ~/Library/Frameworks/SDL2.framework/Versions/A/Headers -F ~/Library/Frameworks/ -framework SDL2 $1

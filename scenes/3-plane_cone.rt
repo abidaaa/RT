@@ -1,0 +1,23 @@
+camera
+0 0 20           //eye point
+0 0 0          //look at
+
+light
+0 10 50           //position
+1                //intensity
+255 255 255      //color
+
+cone
+0 0 0         //center
+0 0 0           //rotation
+60               //radius
+150 150 50         //color
+0 0 0          //translation
+0 1 0
+
+plane
+0 1 0            //center
+0 0 0           //rotation
+0 -1 0               //radius
+0 0 255        //color
+0 0 0          //translation

@@ -1,0 +1,14 @@
+camera
+0 0 9.3           //eye point
+0 0 9          //look at point,direction
+
+light
+100 50 50           //position
+1                //intensity
+255 255 255      //color
+
+cylindre
+0 0 0          //center
+0 90 0           //rotation
+1                //radius
+50 150 50         //color
