@@ -13,7 +13,7 @@ When it comes to render 3 dimensions computer generated images there is 2 possib
 approaches: “rasterization”, which is used by almost all graphic engines because of it’s
 efficiency and “ray tracing.” The ray tracing method is more extensive and as a result
 not adapted to real time but it produces a high degree of visual realism.
-This project is nothing but a climax of amazing computer-generated images, Here is some examples
+This project is nothing but a climax of amazing computer-generated images, Here is some examples :
 
 ![RT1:](https://github.com/abidaaa/RT/blob/master/Images/6.png)
 
@@ -27,9 +27,9 @@ This project is nothing but a climax of amazing computer-generated images, Here 
 
 ![RT6:](https://github.com/abidaaa/RT/blob/master/Images/2.png)
 
-![RT7:](https://github.com/abidaaa/RT/blob/master/Images/3.png)
+![RT7:](https://github.com/abidaaa/RT/blob/master/Images/13.png)
 
-![RT8:](https://github.com/abidaaa/RT/blob/master/Images/1.png)
+![RT8:](https://github.com/abidaaa/RT/blob/master/Images/14.png)
 
 ![RT9:](https://github.com/abidaaa/RT/blob/master/Images/4.png)
 
