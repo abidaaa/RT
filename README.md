@@ -4,7 +4,7 @@ so much time working on it to try and render the most amazing computer-generated
 and we succeded in doing so.
 
 ### Table of content
-* [What is RT?](#what-is-fdf)
+* [What is RT?](#what-is-RT)
 * [How do I use it?](#how-do-i-use-it)
 
 
